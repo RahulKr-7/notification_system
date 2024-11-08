@@ -1,0 +1,10 @@
+2024-10-26 11:31:44,400 - INFO - Success: Push notification to Alice - Welcome to Our Service
+2024-10-26 11:31:44,400 - INFO - Success: In-App notification to Bob - Welcome to Our Service
+2024-10-26 11:31:44,400 - INFO - Success: Push notification to Charlie - Welcome to Our Service
+2024-10-26 11:31:44,400 - INFO - Success: In-App notification to David - Welcome to Our Service
+2024-10-26 11:31:44,400 - INFO - Success: Push notification to Eve - Welcome to Our Service
+2024-10-26 11:31:45,113 - INFO - Success: Push notification to Alice - Welcome to Our Service
+2024-10-26 11:31:45,113 - INFO - Success: In-App notification to Bob - Welcome to Our Service
+2024-10-26 11:31:45,113 - INFO - Success: Push notification to Charlie - Welcome to Our Service
+2024-10-26 11:31:45,113 - INFO - Success: In-App notification to David - Welcome to Our Service
+2024-10-26 11:31:45,113 - INFO - Success: Push notification to Eve - Welcome to Our Service
